@@ -14,12 +14,7 @@ This simulator allows users to select a category (HR or Technical), attempt ques
 * **Timed Questions** – Each question has a countdown timer to simulate real interview pressure
 * **Answer Input** – Users can type answers or use voice input
 * **Smart Feedback System** – Answers are evaluated based on length and relevant keywords
-* **Score Tracking** – Displays performance after completing the interview
-* **History Storage** – Saves previous attempts using localStorage
-* **Performance Graph** – Visual representation of past scores using charts
-* **Modern UI** – Clean interface with gradients, animations, and smooth transitions
 
----
 
  Technologies Used
 
@@ -36,7 +31,6 @@ While working on this project, I improved my understanding of:
 
 * Handling timers and intervals in JavaScript
 * Managing application state and user flow
-* Working with localStorage to persist data
 * Creating dynamic UI updates using DOM manipulation
 * Designing clean and responsive user interfaces
 * Implementing basic logic for answer evaluation
